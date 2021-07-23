@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GAJZ2VEJQLYSPW4ATCTHW4ESLGWHZWKQMVQIHZPH4YHV6KUXTZZG5PQK"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="Kimo Token"
+ORG_URL="https://kimotoken.com/"
+ORG_DESCRIPTION="Kimo are a suite of assets issued on Ethereum and backed by cryptocurrencies from other blockchains"
+ORG_TWITTER="@KimoToken"
+ORG_LOGO="https://i.ibb.co/wKqyjq3/7777.jpg"
+ORG_OFFICIAL_EMAIL="contact@kimo.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="Kimo"
+issuer="GAJZ2VEJQLYSPW4ATCTHW4ESLGWHZWKQMVQIHZPH4YHV6KUXTZZG5PQK"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="Kimo Token"
+desc="Kimo is a new kind of stablecoin. It is more capital efficient, has a fair distribution, and is fully decentralized. The protocol uses the value it controls to maintain liquid secondary markets."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/wKqyjq3/7777.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Kimo Token was issued using the open and inclusive Stellar blockchain network.
